@@ -2,4 +2,4 @@
 
 Utilizar una API, elaborada en Python, en Laravel 8
 
-<p><img src="https://raw.githubusercontent.com/arturolumev/Avance-Api/master/ejemplo.PNG" width="400"></p>
+<p><img src="https://raw.githubusercontent.com/arturolumev/Avance-Api/master/ejemplo.PNG" width="100%"></p>
